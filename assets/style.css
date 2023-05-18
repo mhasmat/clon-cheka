@@ -24,7 +24,7 @@ body {
 
 .nav-logo {
   margin: 1rem 0 3rem 0;
-  width: 32%;
+  width: 33%;
 }
 
 .container {  
@@ -92,4 +92,22 @@ body {
   box-shadow: 0 7px 50px 10px #0000003d;
   transform: scale(1.015);
   transition: all 0.7s ease;
+}
+
+
+/* MEDIA QUERIES */
+@media (max-width: 1200px) {
+  
+}
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+
 }
